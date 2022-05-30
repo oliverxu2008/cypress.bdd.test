@@ -1,0 +1,20 @@
+{
+    "belongHome": {
+        "page_title": "Belong | nbn™ broadband internet and SIM only plans.",
+        "btnSeeMobilePlans": "a[label='See mobile plans']",
+        "btnSeeDataPlans": "a[label='See data plans']",
+        "btnSeeInternetPlans": "a[label='See internet plans']"
+    },
+    "belongInternet": {
+        "url": "https://www.belong.com.au/go/internet",
+        "page_title": "Internet nbn plans | Belong"
+    },
+    "checkYourAddress": {
+        "url": "https://www.belong.com.au/go/internet/check-your-address",
+        "page_title": "Enter your address",
+        "inputAddress": "input[id='queryInput']",
+        "addressResults": "ul[id='queryList'] li",
+        "resultUrl": "https://www.belong.com.au/go/internet/check-your-address?step=serviceability-details",
+        "serviceAbilityDetails": "div[data-testid='step-serviceability__explanation-text'] p"
+    }
+}
