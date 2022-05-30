@@ -56,7 +56,7 @@ npm run cy:run -- --spec **/addressSearch.feature
 ```
 
 ### How to run a single feature and generate allure test report
-`
+```
 npm run singlefeature
 npm run allure:report
-`
+```
